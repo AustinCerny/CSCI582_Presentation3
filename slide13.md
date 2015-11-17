@@ -1,0 +1,14 @@
+# Advanced Doxygen Usage (I)
+
+***
+#### Doxygen can use Latex to include formulas in documentation
+* Formulas need to be placed within the a pair `\f$` commands
+* This requires a seperate Latex compiler (for any output) and an a ghostscript interpreter (only for the ps and pdf outputs)
+* formulas are not supported in RTF or man page outputs
+* rules for generating latex syle formula can be seen here [4](https://github.com/AustinCerny/CSCI582_Presentation3/blob/master/source.md)
+
+
+***
+
+[Next](https://github.com/AustinCerny/CSCI582_Presentation3/blob/master/slide14.md)
+[Prev](https://github.com/AustinCerny/CSCI582_Presentation3/blob/master/slide12.md)

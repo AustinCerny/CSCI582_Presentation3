@@ -1,0 +1,16 @@
+# Advanced Doxygen Usage (III)
+
+***
+#### Doxygen has built in groups based on common documentation standards. Adding to these groupings behaves similarly to using inline commands
+* @return *special section for what a function returns*
+* @param parameter *description of a parameter (parameter must be named)*
+* @warning *special warning about a section of code, appears in red*
+* @note *special note about a section of code, appears in yellow*
+* @see *additional references (shorthand for see also)*
+ 
+
+
+***
+
+[Next](https://github.com/AustinCerny/CSCI582_Presentation3/blob/master/slide16.md)
+[Prev](https://github.com/AustinCerny/CSCI582_Presentation3/blob/master/slide14.md)

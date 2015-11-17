@@ -1,0 +1,11 @@
+# Doxygen Basics (I)
+
+***
+#### Doxygen runs on Windows, OX S and BSD in addition to Linux but the program is run from the command line
+#### Doxygen works natively for C, C++, Fortran, Java, Objective C, PHP, Python, IDL and VHDL
+* Plugins can provide support for additional languages but they can sometime conflict with existing compilers for those languages
+#### Doxygen works more or less the same across different languages and doesn't confict with the existing standards for how these languages are documented
+***
+
+[Next](https://github.com/AustinCerny/CSCI582_Presentation3/blob/master/slide09.md)
+[Prev](https://github.com/AustinCerny/CSCI582_Presentation3/blob/master/slide07.md)

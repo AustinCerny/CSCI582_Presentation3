@@ -1,0 +1,13 @@
+# Doxygen Basics (V)
+
+***
+#### Documentation is generated primarily as brief descriptions and detailed descriptions around entities 
+#### Entities can be any block of code that is enclosed in parathesis. This generally, this allows for each function to be given a function to have a prief description and a more details
+##### The first line of any section of Doxygen style documentation becomes a brief description of the next section of code enclosed by parethesis. The next lines are part of the detailed description
+* The brief description can be entended to muliple lines by using the escape sequence `\brief` on subsequent lines
+* Using a `<` symbol after the comment string will force the desription apply to the previous set block of code instead of the next.
+
+***
+
+[Next](https://github.com/AustinCerny/CSCI582_Presentation3/blob/master/slide12.md)
+[Prev](https://github.com/AustinCerny/CSCI582_Presentation3/blob/master/slide10.md)
